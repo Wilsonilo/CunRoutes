@@ -1,0 +1,49 @@
+PODS:
+  - Alamofire (3.4.1)
+  - BWWalkthrough (1.1.0)
+  - CellAnimator (0.1.3)
+  - ElasticTransition (3.0.1):
+    - MotionAnimation (~> 0.1.1)
+  - GoogleMaps (1.13.2)
+  - MotionAnimation (0.1.1)
+  - Polyline (3.2.1)
+  - SCLAlertView (0.5.9)
+  - Spring (1.0.3)
+  - SwiftyJSON (2.3.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.4)
+  - BWWalkthrough
+  - CellAnimator
+  - ElasticTransition (~> 3.0.0)
+  - GoogleMaps
+  - Polyline (~> 3.0)
+  - SCLAlertView
+  - Spring (from `https://github.com/MengTo/Spring.git`, branch `swift2`)
+  - SwiftyJSON
+
+EXTERNAL SOURCES:
+  Spring:
+    :branch: swift2
+    :git: https://github.com/MengTo/Spring.git
+
+CHECKOUT OPTIONS:
+  Spring:
+    :commit: 18d5c7b74489de8044e34767f856d1e574f0820e
+    :git: https://github.com/MengTo/Spring.git
+
+SPEC CHECKSUMS:
+  Alamofire: 01a82e2f6c0f860ade35534c8dd88be61bdef40c
+  BWWalkthrough: 0c27ad2773a25c8f4fb9004bc7d6685deb35fecc
+  CellAnimator: dfba32e8223bbc1e0d4e16524eb51f475082501b
+  ElasticTransition: 231e60fa66f68f42129e7969736f4a9e69794f97
+  GoogleMaps: b20a103ff307f58392e603cf142e59d7e30374c1
+  MotionAnimation: ff356cfdbedcab52a5bfc94cc96ed44ea2f652e0
+  Polyline: 4579e57a62a5e876944c41884194e24ab7021d89
+  SCLAlertView: d7c6a48c7d340e60206d4ed0e8ebcbff3b9d2a44
+  Spring: 3f02b5dc3308572ef177b3cad0fa7bbc4b0706f7
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+
+PODFILE CHECKSUM: a130aae05668febd7a3f981703b27d661890c040
+
+COCOAPODS: 1.0.1

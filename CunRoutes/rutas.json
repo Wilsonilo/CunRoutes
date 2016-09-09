@@ -1,0 +1,240 @@
+[
+ {
+ "nombre":"Ruta 1 Corales",
+ "tipo":"Zona Hotelera",
+ "archivo":"r1-corales",
+ "color":"#004358",
+ "state": "active"
+ },
+ {
+ "nombre":"Ruta 1 Parque Rehoyada",
+ "tipo":"Zona Hotelera",
+ "archivo":"r1-parque-rehoyada",
+ "color":"#E6E2AF",
+ "state": "active"
+ },
+ {
+ "nombre":"Ruta 1 Rancho Viejo",
+ "tipo":"Zona Hotelera",
+ "archivo":"r1-ranchoviejo",
+ "color":"#046380",
+ "state": "active"
+ },
+ {
+ "nombre":"Ruta 2 Paseos Kabah",
+ "tipo":"Zona Hotelera",
+ "archivo":"r2-paseos-kabah",
+ "color":"#002F2F",
+ "state": "active"
+ },
+ {
+ "nombre":"Ruta 2-94 Villas Otoch",
+ "tipo":"Zona Hotelera",
+ "archivo":"r2-villas-otoch",
+ "color":"#468966",
+ "state": "active"
+ },
+ {
+ "nombre":"Ruta 4 Tierra Maya",
+ "tipo":"Paradero B",
+ "archivo":"r4-tierra-maya",
+ "color":"#FFF0A5",
+ "state": "active"
+ },
+ {
+ "nombre":"Ruta 5 Miguel Hidalgo",
+ "tipo":"Paradero B",
+ "archivo":"r5-miguel-hidalgo",
+ "color":"#FFB03B",
+ "state": "active"
+ },
+ {
+ "nombre":"Ruta 6 Lombardo-510 Jacinto Pat Lombardo",
+ "tipo":"Paradero D",
+ "archivo":"r6-lombardo-510-jacinto-pat-lombardo",
+ "color":"#B64926",
+ "state": "active"
+ },
+ {
+ "nombre":"Ruta 11 Corales Tecnológico",
+ "tipo":"Paradero D",
+ "archivo":"r11-corales-tecnologico",
+ "color":"#BEEB9F",
+ "state": "active"
+ },
+ {
+ "nombre":"Ruta 12 CECYTE",
+ "tipo":"Paradero A",
+ "archivo":"r12-cecyte",
+ "color":"#00A388",
+ "state": "active"
+ },
+ {
+ "nombre":"Ruta 14 Haciendas del Caribe",
+ "tipo":"Paradero B",
+ "archivo":"r14-haciendas-del-caribe",
+ "color":"#DB9E36",
+ "state": "active"
+ },
+ {
+ "nombre":"Ruta 14 Tres Reyes Pza. Américas",
+ "tipo":"Paradero B",
+ "archivo":"r14-tres-reyes-plaza-las-americas",
+ "color":"#ACF0F2",
+ "state": "active"
+ },
+ {
+ "nombre":"Ruta 14 Tres Reyes Rehoyada-Crucero",
+ "tipo":"Paradero D",
+ "archivo":"r14-tres-reyes-rehoyada-crucero",
+ "color":"#FFE11A",
+ "state": "active"
+ },
+ {
+ "nombre":"Ruta 15 Chichen Itzá",
+ "tipo":"Paradero B",
+ "archivo":"r15-chichenitza",
+ "color":"#3498DB",
+ "state": "active"
+ },
+ {
+ "nombre":"Ruta 15 H 95-96",
+ "tipo":"Zona Hotelera",
+ "archivo":"r15-zonahotelera-95-96",
+ "color":"#7E8AA2",
+ "state": "active"
+ },
+ {
+ "nombre":"Ruta 16 Leona Vicario - Guadalupana",
+ "tipo":"Paradero C",
+ "archivo":"r16-leona-vicario-la-guadalupana",
+ "color":"#7D8A2E",
+ "state": "active"
+ },
+ {
+ "nombre":"Ruta 16 Leona Vicario-Palmas",
+ "tipo":"Paradero A",
+ "archivo":"r16-leona-vicario-palmas",
+ "color":"#FFC0A9",
+ "state": "active"
+ },
+ {
+ "nombre":"Ruta 18 Ninos Héroes - Av. Tulum",
+ "tipo":"Paradero C",
+ "archivo":"r18-nino-heroes-tulum",
+ "color":"#FF8598",
+ "state": "active"
+ },
+ {
+ "nombre":"Ruta 20 Talleres",
+ "tipo":"Paradero A",
+ "archivo":"r20-talleres",
+ "color":"#4C1B1B",
+ "state": "active"
+ },
+ {
+ "nombre":"Ruta 21 Kabah Tec. - Ninos Héroes",
+ "tipo":"Paradero C",
+ "archivo":"r21-kabah-tecnologico-ninos-heroes",
+ "color":"#2E0927",
+ "state": "active"
+ },
+ {
+ "nombre":"Ruta 27 Villas del Caribe",
+ "tipo":"Zona Hotelera",
+ "archivo":"r27-villas-del-caribe",
+ "color":"#7E827A",
+ "state": "active"
+ },
+ {
+ "nombre":"Ruta 28 Villas Otoch Tulum",
+ "tipo":"Paradero C",
+ "archivo":"r28-villas-otoch-tulum",
+ "color":"#FF712C",
+ "state": "active"
+ },
+ {
+ "nombre":"Ruta 30 Vista Real - Av. Tulum",
+ "tipo":"Paradero C",
+ "archivo":"r30-villas-real-tulum",
+ "color":"#35478C",
+ "state": "active"
+ },
+ {
+ "nombre":"Ruta 32 Villas Otoch Portillo",
+ "tipo":"Paradero C",
+ "archivo":"r32-villas-otoch-portillo",
+ "color":"#85DB18",
+ "state": "active"
+ },
+ {
+ "nombre":"Ruta 34 Corales Mega Comercial Kabah",
+ "tipo":"Paradero D",
+ "archivo":"r34-corales-mega-comercial-kabah",
+ "color":"#C84663",
+ "state": "active"
+ },
+ {
+ "nombre":"Ruta 39 Foráneos",
+ "tipo":"Paradero B",
+ "archivo":"r39-foraneos",
+ "color":"#477725",
+ "state": "active"
+ },
+ {
+ "nombre":"Ruta 41 Palmas",
+ "tipo":"Paradero A",
+ "archivo":"r41-palmas",
+ "color":"#ECEBF0",
+ "state": "active"
+ },
+ {
+ "nombre":"Ruta 42 Vista Real Portillo - Kabah",
+ "tipo":"Paradero C",
+ "archivo":"r42-vista-real-portillo-kabah",
+ "color":"#F5E9BE",
+ "state": "active"
+ },
+ {
+ "nombre":"Ruta 43 Paraiso Maya",
+ "tipo":"Paradero B",
+ "archivo":"r43-paraiso-maya",
+ "color":"#687D77",
+ "state": "active"
+ },
+ {
+ "nombre":"Ruta 44 Prado Norte Nichupté",
+ "tipo":"Paradero A",
+ "archivo":"r44-prado-norte-nichupte",
+ "color":"#9768D1",
+ "state": "active"
+ },
+ {
+ "nombre":"Ruta 45 Guadalupana Peten - Lagos",
+ "tipo":"Paradero C",
+ "archivo":"r45-guadalupana-peten-lagos",
+ "color":"#EF5411",
+ "state": "active"
+ },
+ {
+ "nombre":"Ruta 46 Chedraui Villas del Mar",
+ "tipo":"Paradero C",
+ "archivo":"r46-chedraui-villas-del-mar",
+ "color":"#979926",
+ "state": "active"
+ },
+ {
+ "nombre":"Ruta 97-99 Av. las torres, Tulum-Itzales-Kiwii",
+ "tipo":"Paradero D",
+ "archivo":"r97-99-las-torres-tulum-itzales-kiwii",
+ "color":"#229396",
+ "state": "active"
+ },
+ {
+ "nombre":"Ruta 237 Domos",
+ "tipo":"Paradero D",
+ "archivo":"r237-domos",
+ "color":"#CAF200",
+ "state": "active"
+ }
+ ]

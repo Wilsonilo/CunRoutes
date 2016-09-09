@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="10117" systemVersion="15F34" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" initialViewController="01J-lp-oVM">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="Llm-lL-Icb"/>
+                        <viewControllerLayoutGuide type="bottom" id="xb3-aO-Qok"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="logo" translatesAutoresizingMaskIntoConstraints="NO" id="QG2-a6-jEA">
+                                <rect key="frame" x="150" y="150" width="300" height="300"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="300" id="1MR-d0-Kjd"/>
+                                    <constraint firstAttribute="width" constant="300" id="89O-K8-3se"/>
+                                    <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="300" id="Klj-Dw-rTg"/>
+                                    <constraint firstAttribute="height" constant="1024" id="Pjt-Zj-eeX"/>
+                                    <constraint firstAttribute="width" secondItem="QG2-a6-jEA" secondAttribute="height" multiplier="1:1" id="Rw8-QH-BLc"/>
+                                    <constraint firstAttribute="height" constant="300" id="SfV-nm-kNV"/>
+                                </constraints>
+                                <variation key="default">
+                                    <mask key="constraints">
+                                        <exclude reference="1MR-d0-Kjd"/>
+                                        <exclude reference="Klj-Dw-rTg"/>
+                                        <exclude reference="Pjt-Zj-eeX"/>
+                                        <exclude reference="Rw8-QH-BLc"/>
+                                    </mask>
+                                </variation>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" red="0.1803921568627451" green="0.60392156862745094" blue="0.85882352941176465" alpha="1" colorSpace="calibratedRGB"/>
+                        <constraints>
+                            <constraint firstItem="QG2-a6-jEA" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="0rS-3p-yAJ"/>
+                            <constraint firstItem="QG2-a6-jEA" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="Fwa-c0-80F"/>
+                            <constraint firstItem="QG2-a6-jEA" firstAttribute="width" secondItem="Ze5-6b-2t3" secondAttribute="height" multiplier="1:2" id="XO7-3X-nz6"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="53" y="375"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="logo" width="1024" height="1024"/>
+    </resources>
+</document>
